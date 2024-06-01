@@ -1,0 +1,2 @@
+# React-Native-Project-Structure-with-Dynamic-Drawer-Navigation
+This repository showcases a well-structured React Native project with a highly customizable dynamic drawer navigation component. The project setup includes responsiveness for various devices, following best practices to ensure scalability and maintainability. Ideal for developers looking to streamline their setup and enhance app functionality.
